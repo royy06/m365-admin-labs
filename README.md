@@ -1,4 +1,4 @@
-[# Microsoft 365 Admin Labs
+## Microsoft 365 Admin Labs
 
 This repository documents hands-on Microsoft 365 administration learning through structured, scenario-based practice.
 
